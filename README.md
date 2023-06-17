@@ -30,7 +30,7 @@ pip3 install pyfiglet
 python3 main.py
 ```
 ## Options
-![Gud Baldr Password Checker Image](https://github.com/sercanradulfr/Gud-Baldr-Analysis-of-Website-s-Security-Headers/edit/main/gbawsh.png "Gud Baldr Analysis of Website's Security Headers Image")
+![Gud Baldr Password Checker Image](https://github.com/sercanradulfr/Gud-Baldr-Analysis-of-Website-s-Security-Headers/blob/main/awsh.png "Gud Baldr Analysis of Website's Security Headers Image")
 
 
 
